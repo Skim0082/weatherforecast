@@ -4,7 +4,7 @@
 -	Weather Forecast Application
 -	Android Studio, Material Design Layout
 -	Open Data (JSON), Local DB(SQLite), 
--	Notification Background Service, GitHub
+-	Notification Background Service
 
 ![Build Status](https://github.com/Skim0082/weatherforecast/blob/master/weatherforecast1.png)
 ![Build Status](https://github.com/Skim0082/weatherforecast/blob/master/weatherforecast2.png)
